@@ -1,4 +1,18 @@
-﻿using System;
+﻿
+/// Homework No.   Lab 9
+/// File Name:     Project1.cs
+/// @author:       Jacques Zwielich
+/// Date:          Oct. 30, 2020
+///
+/// Problem Statement: Show off the inheritance by overloading Display amount
+///    
+/// Overall Plan (step-by-step, how you want the code to make it happen):
+/// 1. Payment parent class
+/// 2. Inherit Cash Payment class
+/// 3. Inherit CreditPayment class
+///
+
+using System;
 
 namespace Project1
 {
